@@ -1,8 +1,12 @@
 {
     "name": "ReadmeRenderProbe",
-    "version": "0.1.0",
-    "description": "Security research probe testing how the Matomo Marketplace renders publisher README HTML (authorized HackerOne program research). Description-field probe markers: <b>bold</b> \"double-quote\" 'single-quote' <img src=x onerror=window.__mpProbe10='desc-img-onerror'>",
-    "keywords": ["testing", "security", "marketplace"],
+    "version": "0.1.2",
+    "description": "Marketplace README rendering probe (Matomo H1 research). Probe: <b>b</b> \"q\" 'a' <img src=x onerror=window.__mpProbe10>",
+    "keywords": [
+        "testing",
+        "security",
+        "marketplace"
+    ],
     "license": "GPL-3.0+",
     "homepage": "https://github.com/RootAccessX/plugin-ReadmeRenderProbe",
     "authors": [
